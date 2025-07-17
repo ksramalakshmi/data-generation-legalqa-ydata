@@ -1,0 +1,67 @@
+NON-DISCLOSURE AGREEMENT (NDA)
+
+This Non-Disclosure Agreement ("Agreement") is entered into on this 15th day of July, 2025, by and between:
+
+Disclosing Party:  
+Orion Innovations Pvt. Ltd.  
+Registered Office: 12th Floor, Skyview Towers, Sector 62, Noida, Uttar Pradesh, India – 201309  
+Represented by: Mr. Rahul Khanna, Managing Director  
+
+Receiving Party:  
+PixelGrid Technologies Inc.  
+Office Address: 908 Silicon Loop, Mountain View, CA 94043, USA  
+Represented by: Ms. Linda Greene, Director of Engineering  
+
+Collectively referred to as the "Parties".
+
+1. PURPOSE  
+The Parties wish to explore a potential business relationship concerning the development of a joint AI-based compliance monitoring system ("Project"). In connection with this, the Disclosing Party may share certain confidential and proprietary information with the Receiving Party.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION  
+"Confidential Information" means all non-public, confidential or proprietary information disclosed by the Disclosing Party to the Receiving Party, including but not limited to:  
+   - Trade secrets, source code, data, designs, algorithms, models  
+   - Business strategies, customer lists, financial data  
+   - Technical documentation and project roadmaps
+
+3. OBLIGATIONS OF RECEIVING PARTY  
+The Receiving Party shall:  
+   a. Maintain the confidentiality of the Confidential Information  
+   b. Not disclose it to any third party without written consent  
+   c. Use it only for the purpose stated in this Agreement  
+   d. Take reasonable steps to protect it from unauthorized access
+
+4. EXCLUSIONS  
+Confidential Information does not include information that:  
+   a. Is or becomes publicly known through no breach of this Agreement  
+   b. Is received lawfully from a third party  
+   c. Is independently developed without reference to the Disclosing Party’s Confidential Information
+
+5. TERM  
+This Agreement shall remain in effect for a period of 2 (two) years from the date of execution or until terminated by either party with 30 days’ prior written notice.
+
+6. RETURN OF MATERIALS  
+Upon termination of this Agreement, the Receiving Party agrees to promptly return or destroy all Confidential Information and certify the same in writing.
+
+7. NO LICENSE  
+Nothing in this Agreement grants the Receiving Party any rights in or to the Confidential Information except as expressly set forth herein.
+
+8. GOVERNING LAW  
+This Agreement shall be governed by and construed in accordance with the laws of the Republic of India.
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Non-Disclosure Agreement as of the date first above written.
+
+Signed:
+
+_________________________  
+Rahul Khanna  
+Managing Director  
+Orion Innovations Pvt. Ltd.
+
+Date: __15/07/2025__
+
+_________________________  
+Linda Greene  
+Director of Engineering  
+PixelGrid Technologies Inc.
+
+Date: __15/07/2025__

@@ -1,0 +1,41 @@
+MEMORANDUM OF UNDERSTANDING (MOU)
+
+This MOU is made on July 10, 2025, by and between:
+
+Party A:  
+KraftEdge Solutions Pvt. Ltd.  
+No. 92, 5th Cross, Koramangala 6th Block, Bengaluru – 560095  
+Represented by: Mr. Arvind Rao, Director
+
+Party B:  
+NovaTech AI Inc.  
+1100 Mission Blvd, San Jose, California, USA – 95112  
+Represented by: Dr. Emily Tan, CTO
+
+1. PURPOSE  
+The purpose of this MOU is to establish a strategic partnership for developing and deploying a co-branded AI-based chatbot for enterprise clients.
+
+2. ROLES AND RESPONSIBILITIES  
+- Party A will provide product design, frontend development, and UI/UX expertise.  
+- Party B will be responsible for backend infrastructure, AI model integration, and cloud deployment.
+
+3. TERM  
+This MOU shall be effective from July 15, 2025, and continue for 12 months unless terminated earlier by either party with a 30-day written notice.
+
+4. CONFIDENTIALITY  
+Both parties agree to maintain the confidentiality of all shared data, documents, and intellectual property.
+
+5. NON-BINDING  
+This MOU is not legally binding but signifies the intention of both parties to work together in good faith.
+
+Signed:
+
+_________________________  
+Mr. Arvind Rao  
+Director, KraftEdge Solutions Pvt. Ltd.  
+Date: 10/07/2025
+
+_________________________  
+Dr. Emily Tan  
+CTO, NovaTech AI Inc.  
+Date: 10/07/2025
